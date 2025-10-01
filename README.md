@@ -18,6 +18,12 @@ Core Disciplines
 
 ⚙️ Database: SQL, Database Architecture (Design), Query Optimization, Data Modeling.
 
+My Digital Toolbox
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,mysql,git,github,bootstrap,illustrator,figma,photoshop,vercel)](https://skillicons.dev)
+
+
+
 Goals & Objectives
 
 Elevate the User Experience: Consistently apply user research and design principles to deliver accessible and delightful interfaces.
