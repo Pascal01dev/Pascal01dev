@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 
 <p align="center">
@@ -6,11 +6,11 @@
 </p>
 
 
-About Me
+## About Me
 
 I am a versatile Full-Stack Creative operating at the unique intersection of design, development, and data architecture. My expertise spans the entire product lifecycle: from crafting intuitive UI/UX designs and building responsive Frontend interfaces to designing robust SQL database schemas and ensuring optimal performance. I translate complex user needs into seamless, high-performance digital experiences.
 
-Core Disciplines
+## Core Disciplines
 
 🎨 Design: UI/UX Design, Graphic Design, Prototyping, User-Centered Research.
 
@@ -18,13 +18,13 @@ Core Disciplines
 
 ⚙️ Database: SQL, Database Architecture (Design), Query Optimization, Data Modeling.
 
-My Digital Toolbox
+## My Digital Toolbox
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,mysql,git,github,bootstrap,illustrator,figma,photoshop,vercel)](https://skillicons.dev)
 
 
 
-Goals & Objectives
+## Goals & Objectives
 
 Elevate the User Experience: Consistently apply user research and design principles to deliver accessible and delightful interfaces.
 
