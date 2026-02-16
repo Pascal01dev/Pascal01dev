@@ -1,5 +1,6 @@
 [![committers.top badge](https://user-badge.committers.top/uganda/Pascal01dev.svg)](https://user-badge.committers.top/uganda/Pascal01dev)
 
+
 # Hi there 👋
 
 
@@ -35,6 +36,11 @@ Architect for Scalability: Design database solutions that are efficient, secure,
 Bridge the Gap: Continually improve my knowledge across the stack to better facilitate communication and efficiency between design and engineering teams.
 
 Contribute to Open Source: Actively engage with community projects that focus on design systems or database tools.
+
+## ⏱️ Coding Activity (WakaTime)
+<p align="left">
+  <img src="https://github-readme-stats-weld-one-61.vercel.app/api/wakatime?username=Pascal01dev&layout=compact&theme=react&title_color=00FFFF&bg_color=0D1117" />
+</p>
 
 <!--
 **Pascal01dev/Pascal01dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
