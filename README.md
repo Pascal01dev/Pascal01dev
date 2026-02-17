@@ -3,31 +3,39 @@
 
 # Hi there 👋
 
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&center=true&vCenter=true&width=500&height=50&lines=My+code+works,;I+have+no+idea+why." alt="Typing animation" />
 </p>
 
 
-## About Me
+## 👤 About Me
 
 I am a versatile Full-Stack Creative operating at the unique intersection of design, development, and data architecture. My expertise spans the entire product lifecycle: from crafting intuitive UI/UX designs and building responsive Frontend interfaces to designing robust SQL database schemas and ensuring optimal performance. I translate complex user needs into seamless, high-performance digital experiences.
 
-## Core Disciplines
+## ⚖️ Core Disciplines
 
 🎨 Design: UI/UX Design, Graphic Design, Prototyping, User-Centered Research.
 
 💻 Frontend: Web Applications, Mobile Applications, and dynamic websites.
 
-⚙️ Database: SQL, Database Architecture (Design), Query Optimization, Data Modeling.
+🗄️ Database: SQL, Database Architecture (Design), Query Optimization, Data Modeling.
 
-## My Digital Toolbox
+🚀 Deployment: Vercel, Render, Netlify
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,mysql,git,github,bootstrap,illustrator,figma,photoshop,vercel)](https://skillicons.dev)
+🤝 Colaboration: Git, Github
+
+## 🛠️ My Digital Toolbox
+
+| Category                | Technology                                     | Icon                                                                                                       |
+| :---                    | :---                                           | :---                                                                                                       |
+| Frontend                | HTML, CSS, Bootstrap, TailWind, JS, React      | [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,react)](https://skillicons.dev) |
+| Database                | MySQL, OracleSQL, PostgreSQL                   |[![My Skills](https://skillicons.dev/icons?i=mysql,oracle,postgresql)](https://skillicons.dev)              |
+| Deployment              | Vercel, Netilify, Render                       |[![My Skills](https://skillicons.dev/icons?i=vercel,netlify,render)](https://skillicons.dev)                |  
+| Collaboration           | Git, Github                                    |[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)                           |  
+| UI/UX & Graphics Design | Figma, Adobe Illustrator, Photoshop            |[![My Skills](https://skillicons.dev/icons?i=figma,illustrator,photoshop)](https://skillicons.dev)          |  
 
 
-
-## Goals & Objectives
+## 🎯 Goals & Objectives
 
 Elevate the User Experience: Consistently apply user research and design principles to deliver accessible and delightful interfaces.
 
@@ -37,9 +45,12 @@ Bridge the Gap: Continually improve my knowledge across the stack to better faci
 
 Contribute to Open Source: Actively engage with community projects that focus on design systems or database tools.
 
+##  🔥 Development Metrics
+[![WakaTime Streak](https://streak-stats.demolab.com/?user=OMOLO&theme=dark&mode=wakatime)](https://git.io/streak-stats)
+
 ## ⏱️ Coding Activity (WakaTime)
 <p align="left">
-  <img src="https://github-readme-stats-weld-one-61.vercel.app/api/wakatime?username=Pascal01dev&layout=compact&theme=react&title_color=00FFFF&bg_color=0D1117" />
+  <img src="https://github-readme-stats-weld-one-61.vercel.app/api/wakatime?username=OMOLO&layout=compact&theme=react&title_color=00FFFF&bg_color=0D1117" />
 </p>
 
 <!--
