@@ -46,6 +46,8 @@ Contribute to Open Source: Actively engage with community projects that focus on
 ##  🔥 Development Metrics
 [![WakaTime Streak](https://streak-stats.demolab.com/?user=Pascal01dev&theme=dark&mode=wakatime)](https://git.io/streak-stats)
 
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pascal01dev&theme=react-dark)
 ## ⏱️ Coding Activity (WakaTime)
 <p align="left">
   <img src="https://github-readme-stats-weld-one-61.vercel.app/api/wakatime?username=Pasikali&layout=compact&theme=react&title_color=00FFFF&bg_color=0D1117" />
