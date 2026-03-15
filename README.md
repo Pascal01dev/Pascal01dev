@@ -51,7 +51,7 @@ Contribute to Open Source: Actively engage with community projects that focus on
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pascal01dev&theme=react-dark)
 
 ## TROPHY AWARDS
-[![trophy](https://github-profile-trophy.vercel.app/?username=Pascal01dev)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=Pascal01dev&theme=dracula&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## ⏱️ Coding Activity (WakaTime)
 <p align="left">
