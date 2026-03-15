@@ -4,7 +4,7 @@
 
 # Hi there 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=28&duration=3500&pause=1000&color=46E3B7&center=true&vCenter=true&width=1000&height=50&lines=I+Am+Omolo+Pasikali;My+code+works...;I+have+no+idea+why." alt="Typing animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Bario&weight=600&size=28&duration=3500&pause=1000&color=46E3B7&center=true&vCenter=true&width=1000&height=50&lines=I+Am+Omolo+Pasikali;My+code+works...;I+have+no+idea+why." alt="Typing animation" />
 </p>
 
 ## 👤 About Me
