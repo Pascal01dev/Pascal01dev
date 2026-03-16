@@ -31,7 +31,7 @@ I am a versatile Full-Stack Creative operating at the unique intersection of des
 | Database                | MySQL, OracleSQL, PostgreSQL                   |[![My Skills](https://skillicons.dev/icons?i=mysql,oracle,postgresql)](https://skillicons.dev)              |
 | Deployment              | Vercel, Netilify, Render                       |[![My Skills](https://skillicons.dev/icons?i=vercel,netlify,render)](https://skillicons.dev)                |  
 | Collaboration           | Git, Github                                    |[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)                           |  
-| UI/UX & Graphics Design | Figma, Adobe Illustrator, Photoshop            |[![My Skills](https://skillicons.dev/icons?i=figma,illustrator,photoshop)](https://skillicons.dev)          |  
+| UI/UX & Graphics Design | Figma, Adobe Illustrator, Photoshop            |[![My Skills](https://skillicons.dev/icons?i=figma,xd,illustrator,photoshop)](https://skillicons.dev)          |  
 
 
 ## 🎯 Goals & Objectives
