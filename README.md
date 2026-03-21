@@ -2,7 +2,7 @@
 [![committers.top badge](https://user-badge.committers.top/uganda/Pascal01dev.svg)](https://user-badge.committers.top/uganda/Pascal01dev)
 [![wakatime](https://wakatime.com/badge/user/d4f8f673-9078-495d-8783-8f6f8a83300b.svg)](https://wakatime.com/@d4f8f673-9078-495d-8783-8f6f8a83300b)
 
-# Hi there 
+# Hi there 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Bario&weight=600&size=28&duration=3500&pause=1000&color=46E3B7&center=true&vCenter=true&width=1000&height=50&lines=I+Am+Omolo+Pasikali;My+code+works...;I+have+no+idea+why." alt="Typing animation" />
 </p>
