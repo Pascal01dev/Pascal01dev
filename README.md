@@ -1,3 +1,6 @@
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pascal01dev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pascal01dev&layout=compact&theme=tokyonight)
+
 
 [![committers.top badge](https://user-badge.committers.top/uganda/Pascal01dev.svg)](https://user-badge.committers.top/uganda/Pascal01dev)
 [![wakatime](https://wakatime.com/badge/user/d4f8f673-9078-495d-8783-8f6f8a83300b.svg)](https://wakatime.com/@d4f8f673-9078-495d-8783-8f6f8a83300b)
