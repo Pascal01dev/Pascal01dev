@@ -1,4 +1,3 @@
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pascal01dev&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pascal01dev&layout=compact&theme=tokyonight)
 
 
