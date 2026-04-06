@@ -58,7 +58,7 @@ Contribute to Open Source: Actively engage with community projects that focus on
 </p>
 
 <!--
-**Pascal01dev/Pascal01dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Pascal01dev/Pascal01dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
