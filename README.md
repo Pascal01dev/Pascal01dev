@@ -1,4 +1,4 @@
-[![committers.top badge](https://user-badge.committers.top/uganda/Pascal01dev.svg)](https://user-badge.committers.top/uganda/Pascal01dev)
+gl[![committers.top badge](https://user-badge.committers.top/uganda/Pascal01dev.svg)](https://user-badge.committers.top/uganda/Pascal01dev)
 [![wakatime](https://wakatime.com/badge/user/d4f8f673-9078-495d-8783-8f6f8a83300b.svg)](https://wakatime.com/@d4f8f673-9078-495d-8783-8f6f8a83300b)
 
 # Hi there 👋
@@ -10,7 +10,7 @@
 
 I am a versatile Full-Stack Creative operating at the unique intersection of design, development, and data architecture. My expertise spans the entire product lifecycle: from crafting intuitive UI/UX designs and building responsive Frontend interfaces to designing robust SQL database schemas and ensuring optimal performance. I translate complex user needs into seamless, high-performance digital experiences.
 
-## ⚖️ Core Disciplines
+## ⚖️ Core Disciplinespw
 
 🎨 Design: UI/UX Design, Graphic Design, Prototyping, User-Centered Research.
 
